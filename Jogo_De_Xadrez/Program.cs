@@ -41,6 +41,8 @@ namespace Jogo_De_Xadrez
                     }
 
                 }
+                Console.Clear();
+                Tela.ImprimirPartida(partida);
                  
                 
              }

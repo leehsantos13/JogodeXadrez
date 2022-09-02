@@ -13,11 +13,19 @@ namespace Jogo_De_Xadrez
             Console.WriteLine();
             ImprimirPecasCapturadas(partida);
             Console.WriteLine();
-            Console.WriteLine("Truno: "+partida.turno);
-            Console.WriteLine("Agurdando jogada: "+partida.jogadorAtual);
-            if (partida.xeque)
+            Console.WriteLine("Turno: "+partida.turno);
+            if (!partida.Terminada)
             {
-                Console.WriteLine("XEQUE!");
+                Console.WriteLine("Agurdando jogada: " + partida.jogadorAtual);
+                if (partida.xeque)
+                {
+                    Console.WriteLine("XEQUE!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("XequeMate!");
+                Console.WriteLine("Vencedor: "+partida.jogadorAtual);
             }
         }
 
