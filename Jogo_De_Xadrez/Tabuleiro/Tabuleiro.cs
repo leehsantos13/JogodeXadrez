@@ -8,8 +8,8 @@
 
         public Tabuleiro(int linhas, int colunas)
         {
-            this.Linhas = linhas;
-            this.Colunas = colunas;
+            Linhas = linhas;
+            Colunas = colunas;
             pecas = new Peca[linhas, colunas];
         }
         public Peca peca (int linha, int coluna)

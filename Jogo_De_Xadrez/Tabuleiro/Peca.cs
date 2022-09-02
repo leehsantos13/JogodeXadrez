@@ -9,10 +9,10 @@
 
         public Peca( Tabuleiro tab, Cor cor)
         {
-            this.Posicao = null;
-            this.Cor = cor;
-            this.Tab = tab;
-            this.QteMovimentos = 0;
+            Posicao = null;
+            Cor = cor;
+            Tab = tab;
+            QteMovimentos = 0;
         }
     }
 }
