@@ -1,0 +1,14 @@
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.exe
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.deps.json
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.runtimeconfig.json
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.runtimeconfig.dev.json
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.dll
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\netcoreapp3.1\Jogo_De_Xadrez.pdb
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.csproj.AssemblyReference.cache
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.AssemblyInfoInputs.cache
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.AssemblyInfo.cs
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.csproj.CoreCompileInputs.cache
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.dll
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.pdb
+D:\C#\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\netcoreapp3.1\Jogo_De_Xadrez.genruntimeconfig.cache

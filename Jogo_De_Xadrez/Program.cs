@@ -1,12 +1,18 @@
 ﻿using System;
-
+using Tabuleiro;
 namespace Jogo_De_Xadrez
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Posicao P;
+
+            P = new Posicao(3, 4);
+            Console.WriteLine("Posicao: "+P);
+            Console.ReadLine();
+
         }
     }
 }
