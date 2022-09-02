@@ -1,6 +1,6 @@
 ﻿namespace Jogo_De_Xadrez.tabuleiro
 {
-    class Peca
+    abstract class Peca
     {
         public Posicao Posicao { get; set; }
         public Cor Cor { get; protected set; }
@@ -14,11 +14,17 @@
             Tab = tab;
             QteMovimentos = 0;
         }
+
+        public abstract bool[,] PossiveisMovimentos();
+        
+
+        
         
         public void IncrementarQteMovimentos()
         {
             QteMovimentos++;
         }
+
 
     }
 }
