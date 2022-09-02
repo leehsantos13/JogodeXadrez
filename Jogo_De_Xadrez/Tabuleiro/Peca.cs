@@ -1,6 +1,6 @@
 ﻿
 
-namespace Jogo_De_Xadrez.Tabuleiro
+namespace Jogo_De_Xadrez.tabuleiro
 {
     class Peca
     {

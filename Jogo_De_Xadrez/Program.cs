@@ -1,16 +1,15 @@
 ﻿using System;
-using Jogo_De_Xadrez.Tabuleiro;
+using Jogo_De_Xadrez.tabuleiro;
 namespace Jogo_De_Xadrez
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Tabuleiro tab = new Tabuleiro(8, 8);
+            Tela.imprimirTabuleiro(tab);
             
-            Posicao P;
-
-            P = new Posicao(3, 4);
-            Console.WriteLine("Posicao: "+P);
+           
             
 
         }
