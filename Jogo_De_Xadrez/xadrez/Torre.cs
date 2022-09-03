@@ -33,7 +33,7 @@ namespace Jogo_De_Xadrez.xadrez
                 {
                     break;
                 }
-                pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
+                pos.Linha = pos.Linha - 1;
             }
             //Abaixo
             pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
@@ -44,7 +44,7 @@ namespace Jogo_De_Xadrez.xadrez
                 {
                     break;
                 }
-                pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
+                pos.Linha = pos.Linha + 1;
             }
 
             //Direita
@@ -56,7 +56,7 @@ namespace Jogo_De_Xadrez.xadrez
                 {
                     break;
                 }
-                pos.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
+                pos.Coluna = pos.Coluna + 1;
             }
 
             //Esquerda
@@ -68,7 +68,7 @@ namespace Jogo_De_Xadrez.xadrez
                 {
                     break;
                 }
-                pos.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
+                pos.Coluna = pos.Coluna - 1;
             }
 
             return mat;
